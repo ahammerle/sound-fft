@@ -5,6 +5,7 @@ n=length(y);
 t=(0:n-1)/Fs;
 %figure1
 plot(t,y);
+xlim([0 10]);
 xlabel('Time');
 ylabel('Audio signal');
 title('Original signal');
