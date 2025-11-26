@@ -1,4 +1,4 @@
-##FFT of .m4a File
+## FFT of .m4a File
 
 This repo contains my code for a fft of an airplane taking off. The resulting figures are shown below.
   
