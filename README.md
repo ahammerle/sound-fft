@@ -8,4 +8,6 @@ Original Signal
   
 <img width="1402" height="877" alt="spectrum" src="https://github.com/user-attachments/assets/83eafc1a-b776-472b-96c1-5fc08c2bf5aa" />
   
-Specrrum Analysis
+Spectrum Analysis
+
+This code is pretty barebones for future analyses.
